@@ -4,7 +4,7 @@ int main() {
 
     float num, sec, result;
     char op;
-    while (op != 'e'); {
+    while (op != 'e') {
         std::cout << "\nEnter number: ";
         std::cin >> num;
         std::cout << "Enter operation: /, *, -, + ";
